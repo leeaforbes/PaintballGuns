@@ -1,0 +1,10 @@
+name: PaintballGuns
+main: com.javabean.pbguns.PaintballGuns
+author: JavaBean
+description: Allows players to use paintball guns.
+version: 1.0
+api-version: 1.15
+commands:
+   guns:
+      description: JavaBean Paintball guns command.
+      usage: /guns
